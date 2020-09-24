@@ -27,7 +27,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "268f4aa66520.ngrok.io"
+    ".ngrok.io"
 ]
 
 
